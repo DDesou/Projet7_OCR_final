@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/denis/OneDrive/Documents/Denis/Formation_OpenClassRooms/Projet7_DDesoubzdanne/Desoubzdanne_Denis_2_dossier_code_112023/mlruns/345067922943021846/44127d1af0214f758c494222da1304e9/artifacts
+end_time: 1699911819062
+entry_point_name: ''
+experiment_id: '345067922943021846'
+lifecycle_stage: active
+run_id: 44127d1af0214f758c494222da1304e9
+run_name: Best_LGMClassifier_final
+run_uuid: 44127d1af0214f758c494222da1304e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699911818779
+status: 4
+tags: []
+user_id: denis
