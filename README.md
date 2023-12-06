@@ -87,3 +87,6 @@ Il a été décidé de séparer complètement le déploiement de l'API de celui 
 
 L'API est déployée (ou modifiée) après que les tests unitaires aient été validés (**tests Pytest** intégrés dans le déploiement). Les scripts des test effectués sont contenus dans le fichier test_main.py.  
 L'application Streamlit est déployée (ou modifiée) après s'être assuré que toutes les modifications ont été d'abord enregistrées, afin d'éviter les bugs éventuels au moment du changement de version.
+
+### Délivrables
+L'ensemble des délivrables est disponibles sur le repos suivant : **https://github.com/DDesou/Projet7_OCR_final.git**.
